@@ -27,3 +27,4 @@ class cookieInjection:
                 'secure': cookie['secure'],
                 'value': cookie['value']
             })
+           pip selenium
