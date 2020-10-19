@@ -1,3 +1,3 @@
 # springcloud-config
 
-boss 自动投递
+# boss 自动投递
